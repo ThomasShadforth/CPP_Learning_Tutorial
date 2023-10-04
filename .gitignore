@@ -1,0 +1,12 @@
+*.exe
+*.ilk
+*.zip
+*.exp
+*.obj
+*.dll
+*.pdb
+*.nativecodeanalysis.xml
+*.lib
+c_cpp_properties.json
+settings.json
+.clangd
